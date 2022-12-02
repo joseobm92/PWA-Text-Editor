@@ -73,6 +73,8 @@ As a user:
 
   ## Demo
 
+  ![alt text](./assets/images/textEditor.png)
+
 
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
@@ -85,8 +87,4 @@ As a user:
   
   * Any additional questions or feed back, feel free to [send an email](mailto:joseobm92@gmail.com). 
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
-  ## License
-  Copyright (c) [ joseobm92](https://github.com/joseobm92). All rights reserved.
-   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
-  Licensed under the The MIT License license.
